@@ -8,9 +8,9 @@ Menu: A detailed display of our appetizers, main courses, and desserts, complete
 Location: An embedded Google Maps iframe to help users find us easily.
 Contact Us: A section for users to leave messages and reach out through email.
 Technologies Used
-HTML
-CSS
-sql
+HTML,
+CSS,
+sql, and
 figma
 Installation
 Clone the repository:

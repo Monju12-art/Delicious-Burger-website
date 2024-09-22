@@ -1,4 +1,4 @@
-Description
+
 Welcome to the Delicious Burger website! This project showcases a vibrant and user-friendly platform where burger enthusiasts can explore a wide variety of delicious burgers, view menu items, and get in touch with us.
 
 Features
@@ -10,6 +10,8 @@ Contact Us: A section for users to leave messages and reach out through email.
 Technologies Used
 HTML
 CSS
+sql
+figma
 Installation
 Clone the repository:
 bash
